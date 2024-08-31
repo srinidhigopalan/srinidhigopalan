@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Srinidhi</h1>
 <h3 align="center">I am a computer science student.</h3>
 
+<!--
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsQn7Zo4e6K508uTQhEmOOW4T6EhGWsUiBg&usqp=CAU" alt="Centered Image" width="500">
 </div>
@@ -23,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true&locale=en" alt="srinidhigopalan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhigopalan&" alt="srinidhigopalan" /></p>
+-->
+
+![Srinidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true&theme=radical)
