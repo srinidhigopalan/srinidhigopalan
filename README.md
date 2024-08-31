@@ -26,7 +26,19 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhigopalan&" alt="srinidhigopalan" /></p>
 -->
 
-![Srinidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true&theme=radical)
+<!--![Srinidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true&theme=radical)
 
 <!--[![Srinidhi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/srinidhigopalan/github-readme-stats#gh-dark-mode-only)
 [![Srinidhi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/srinidhigopalan/github-readme-stats#gh-light-mode-only)-->
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
