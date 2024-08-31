@@ -108,3 +108,40 @@
 
 
 
+<div align="center" style="
+  border: 1px solid #ddd; 
+  border-radius: 10px; 
+  padding: 20px; 
+  background-color: #ffffff; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  max-width: 1000px; 
+  margin: 20px 0;
+">
+
+  <h2>Programming Languages</h2>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+  </div>
+
+  <h2 style="margin-top: 20px;">Technical Skills</h2>
+  <ul style="list-style-type: none; padding: 0; text-align: center;">
+    <li>• Machine Learning</li>
+    <li>• Deep Learning</li>
+    <li>• Computer Vision</li>
+    <li>• Web Development (MERN)</li>
+    <li>• AWS Cloud</li>
+    <li>• UiPath</li>
+  </ul>
+
+</div>
