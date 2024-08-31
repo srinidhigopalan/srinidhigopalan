@@ -1,6 +1,11 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://i.pinimg.com/1200x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg" alt="Centered Image" width="1000">
+</div>-->
+
+<div align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: fit-content;">
+  <img src="https://i.pinimg.com/1200x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg" alt="Centered Image" width="1000" style="display: block; border-radius: 8px;">
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Srinidhi</h1>
 <h3 align="center">I am a computer science student.</h3>
