@@ -71,7 +71,8 @@
   </picture>
 
   <!-- Spacer -->
-  <img src="https://via.placeholder.com/50x1/ffffff/ffffff" alt="" style="vertical-align: top; border: 0; margin: 0; padding: 0;"/>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAB0lEQVR42mP8/wcAAwAB/3iScXAAAAABJRU5ErkJggg==" alt="" style="vertical-align: top; border: 0; margin: 0; padding: 0; width: 100px; height: 1px;" />
+
 
   <!-- Top Languages Card -->
   <picture>
