@@ -69,9 +69,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true" alt="GitHub Stats" style="vertical-align: top; width: 47%;" />
   </picture>
 
-  <!-- Spacer -->
-  <span style="display: inline-block; width: 100px;"></span>
-
   <!-- Top Languages Card -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan&theme=dark" media="(prefers-color-scheme: dark)" />
