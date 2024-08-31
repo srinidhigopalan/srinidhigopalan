@@ -30,7 +30,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Srinidhi</h1>
-<h3 align="center">Full Stack Developer | AWS Certified Cloud Practitioner | Machine Learning and Data Science Enthusiast .</h3>
+<h3 align="center">Full Stack Developer | AWS Certified Cloud Practitioner | Machine Learning and Data Science Enthusiast </h3>
+<div style="margin: 40px 0;"></div>
 
 <!--
 <div align="center">
@@ -134,7 +135,7 @@
   </div>
 
   <!-- Adding spacing between sections -->
-  <div style="margin: 20px 0;"></div>
+  <div style="margin: 40px 0;"></div>
 
   <h2>Technical Skills</h2>
   
@@ -148,7 +149,7 @@
   </div>
 
  <!-- Spacer -->
-  <div style="margin: 20px 0;"></div>
+  <div style="margin: 40px 0;"></div>
 
   <!-- Contributions Calendar Section -->
   <h2>Contributions</h2>
