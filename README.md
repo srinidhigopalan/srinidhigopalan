@@ -107,7 +107,6 @@
 
 
 
-
 <div align="center" style="
   border: 1px solid #ddd; 
   border-radius: 10px; 
@@ -120,7 +119,7 @@
 
   <h2>Programming Languages</h2>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding-bottom: 20px;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -134,8 +133,13 @@
     <img src="https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
   </div>
 
-  <h2 style="margin-top: 20px;">Technical Skills</h2>
-  <ul style="list-style-type: none; padding: 0; text-align: center;">
+  <h2>Technical Skills</h2>
+  <ul style="
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+    text-align: center;
+  ">
     <li>• Machine Learning</li>
     <li>• Deep Learning</li>
     <li>• Computer Vision</li>
@@ -145,3 +149,4 @@
   </ul>
 
 </div>
+
