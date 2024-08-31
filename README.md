@@ -106,6 +106,7 @@
 </div>
 
 
+
 <div align="center" style="
   border: 1px solid #ddd; 
   border-radius: 10px; 
@@ -136,14 +137,14 @@
   <div style="margin: 20px 0;"></div>
 
   <h2>Technical Skills</h2>
-  <p style="
-    margin: 0;
-    font-size: 16px;
-    color: #333;
-    text-align: center;
-    font-weight: 500;
-  ">
-    Machine Learning, Deep Learning, Computer Vision, Web Development (MERN), AWS Cloud, UiPath
-  </p>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <img src="https://img.shields.io/badge/Machine_Learning-F7DF1C?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+    <img src="https://img.shields.io/badge/Computer_Vision-009688?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+    <img src="https://img.shields.io/badge/Web_Development-MERN-4CAF50?style=for-the-badge&logo=react&logoColor=white" alt="Web Development (MERN)" />
+    <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud" />
+    <img src="https://img.shields.io/badge/UiPath-0098D4?style=for-the-badge&logo=ui-path&logoColor=white" alt="UiPath" />
+  </div>
 
 </div>
