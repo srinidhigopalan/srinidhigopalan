@@ -106,7 +106,6 @@
 </div>
 
 
-
 <div align="center" style="
   border: 1px solid #ddd; 
   border-radius: 10px; 
@@ -133,20 +132,18 @@
     <img src="https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
   </div>
 
+  <!-- Adding spacing between sections -->
+  <div style="margin: 20px 0;"></div>
+
   <h2>Technical Skills</h2>
-  <ul style="
-    list-style-type: none; 
-    padding: 0; 
-    margin: 0; 
+  <p style="
+    margin: 0;
+    font-size: 16px;
+    color: #333;
     text-align: center;
+    font-weight: 500;
   ">
-    <li>• Machine Learning</li>
-    <li>• Deep Learning</li>
-    <li>• Computer Vision</li>
-    <li>• Web Development (MERN)</li>
-    <li>• AWS Cloud</li>
-    <li>• UiPath</li>
-  </ul>
+    Machine Learning, Deep Learning, Computer Vision, Web Development (MERN), AWS Cloud, UiPath
+  </p>
 
 </div>
-
