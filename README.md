@@ -54,7 +54,7 @@
     <source srcset="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true" alt="GitHub Stats" />
   </picture>
- <div style="width: 100px;"></div>
+ <div style="width: 50px;"></div>
   <!-- Top Languages Card -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan&theme=dark" media="(prefers-color-scheme: dark)" />
