@@ -62,23 +62,25 @@
   </picture>
 </div>-->
 
-
 <div style="text-align: center;">
   <!-- GitHub Stats Card -->
-  <div style="display: inline-block; vertical-align: top;">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true" alt="GitHub Stats" />
-    </picture>
-  </div>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true" alt="GitHub Stats" style="vertical-align: top;" />
+  </picture>
 
   <!-- Spacer -->
-  <div style="display: inline-block; width: 50px;"></div>
+  <img src="https://via.placeholder.com/50x1/ffffff/ffffff" alt="" style="vertical-align: top; border: 0; margin: 0; padding: 0;"/>
 
   <!-- Top Languages Card -->
-  <div style="display: inline-block; vertical-align: top;">
-    <picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan" alt="Top Languages" style="vertical-align: top;" />
+  </picture>
+</div>
+
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan&theme=dark" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan" alt="Top Languages" />
