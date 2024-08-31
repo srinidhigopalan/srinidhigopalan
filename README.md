@@ -61,7 +61,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan" alt="Top Languages" />
   </picture>
 </div>-->
-
 <div style="text-align: center;">
   <!-- GitHub Stats Card -->
   <picture>
@@ -71,8 +70,7 @@
   </picture>
 
   <!-- Spacer -->
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAB0lEQVR42mP8/wcAAwAB/3iScXAAAAABJRU5ErkJggg==" alt="" style="vertical-align: top; border: 0; margin: 0; padding: 0; width: 100px; height: 1px;" />
-
+  <span style="display: inline-block; width: 100px;"></span>
 
   <!-- Top Languages Card -->
   <picture>
