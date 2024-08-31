@@ -42,3 +42,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true" />
 </picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan&exclude_repo=github-readme-stats,srinidhigopalan.github.io)
