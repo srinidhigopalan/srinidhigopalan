@@ -16,8 +16,14 @@
 ">
   <img src="https://i.pinimg.com/1200x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg" 
        alt="Centered Image" 
-       style="width: 100%; height: auto; border-radius: 8px;">
+       style="
+         width: 100%; 
+         height: auto; 
+         border-radius: 4px; 
+         /* Less rounded to create a blunt edge look */
+       ">
 </div>
+
 
 
 
