@@ -46,12 +46,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan&layout=donut)](https://github.com/srinidhigopalan/github-readme-stats)
 -->
 <div style="display: flex; justify-content: center; gap: 20px;">
+  <!-- GitHub Stats Card -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true" alt="GitHub Stats" />
   </picture>
 
+  <!-- Top Languages Card -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
