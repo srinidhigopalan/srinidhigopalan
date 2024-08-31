@@ -2,9 +2,23 @@
   <img src="https://i.pinimg.com/1200x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg" alt="Centered Image" width="1000">
 </div>-->
 
-<div align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: fit-content;">
+<!--<div align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: fit-content;">
   <img src="https://i.pinimg.com/1200x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg" alt="Centered Image" width="1000" style="display: block; border-radius: 8px;">
+</div>-->
+<div align="center" style="
+  border: 1px solid #e0e0e0; 
+  border-radius: 12px; 
+  padding: 15px; 
+  background-color: #ffffff; 
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); 
+  max-width: 1000px; 
+  margin: 20px 0;
+">
+  <img src="https://i.pinimg.com/1200x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg" 
+       alt="Centered Image" 
+       style="width: 100%; height: auto; border-radius: 8px;">
 </div>
+
 
 
 <h1 align="center">Hi 👋, I'm Srinidhi</h1>
