@@ -45,7 +45,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhigopalan&layout=donut)](https://github.com/srinidhigopalan/github-readme-stats)
 -->
-<div style="display: flex; justify-content: center; gap: 40px;">
+<div style="display: flex; justify-content: center; gap: 100px;">
   <!-- GitHub Stats Card -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=srinidhigopalan&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
