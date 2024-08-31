@@ -30,7 +30,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Srinidhi</h1>
-<h3 align="center">I am a computer science student.</h3>
+<h3 align="center">Full Stack Developer | AWS Certified Cloud Practitioner | Machine Learning and Data Science Enthusiast .</h3>
 
 <!--
 <div align="center">
