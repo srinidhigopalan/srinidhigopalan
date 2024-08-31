@@ -147,4 +147,21 @@
     <img src="https://img.shields.io/badge/UiPath-0098D4?style=for-the-badge&logo=ui-path&logoColor=white" alt="UiPath" />
   </div>
 
+ <!-- Spacer -->
+  <div style="margin: 20px 0;"></div>
+
+  <!-- Contributions Calendar Section -->
+  <h2>Contributions</h2>
+  <div style="
+    border: 1px solid #ddd; 
+    border-radius: 10px; 
+    padding: 10px; 
+    background-color: #f9f9f9; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    display: inline-block; 
+    width: 100%;
+    max-width: 1000px;
+  ">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhigopalan&theme=dark" alt="Contributions Calendar" style="border-radius: 8px; width: 100%; height: auto;"/>
+  </div>
 </div>
